@@ -4,11 +4,11 @@
 
 In the root of your project, run the following commands in order:
 
-`py -m venv .venv
-source .venv/Scripts/activate
-python -m pip install --upgrade pip
-python -m pip install matplotlib
-python run_all_tests.py`
+`py -m venv .venv`
+`source .venv/Scripts/activate`
+`python -m pip install --upgrade pip`
+`python -m pip install matplotlib`
+`python run_all_tests.py`
 
 ## Order of Operations
 1. graph.py
