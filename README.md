@@ -8,7 +8,8 @@ In the root of your project, run the following commands in order:
 source .venv/Scripts/activate
 python -m pip install --upgrade pip
 python -m pip install matplotlib
-python run_all_tests.py```
+python run_all_tests.py
+```
 
 ## Order of Operations
 1. graph.py
